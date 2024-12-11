@@ -1,0 +1,26 @@
+{
+    "name": "temperature-converter",
+    "version": "1.0.0",
+    "description": "A simple temperature converter app.",
+    "main": "index.html",
+    "window": {
+      "title": "Temperature Converter",
+      "width": 400,
+      "height": 600,
+      "icon": "app_icon.ico",
+      "resizable": false
+    },
+    "platforms": [
+      "win32",
+      "win64",
+      "osx",
+      "linux"
+    ],
+    "dependencies": {},
+    "devDependencies": {},
+    "scripts": {
+      "start": "nw ."
+    },
+    "author": "Your Name",
+    "license": "MIT"
+  }
